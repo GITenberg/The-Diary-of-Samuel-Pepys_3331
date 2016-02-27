@@ -1,0 +1,42 @@
+_repo: The-Diary-of-Samuel-Pepys_3331
+contributor:
+  creator:
+    editor:
+      agent_name: Braybrooke, Richard Griffin, Baron
+      aliases:
+      - Neville, Richard
+      - Griffin, Richard, Baron Braybrooke
+      birthdate: 1783
+      deathdate: 1858
+      gutenberg_agent_id: '1182'
+      url: http://www.gutenberg.org/2009/agents/1182
+creator:
+  author:
+    agent_name: Pepys, Samuel
+    birthdate: 1633
+    deathdate: 1703
+    gutenberg_agent_id: '1181'
+    url: http://www.gutenberg.org/2009/agents/1181
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Pepys
+description: Pepys' original diary was written in shorthand between 1660 and 1669
+  and not deciphered until 1825. These selections reveal in an engaging fashion the
+  public and private life of a most interesting, active, articulate Englishman and
+  his lively French wife and provide valuable information about the period in which
+  they lived.
+gutenberg_issued: '2002-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3331'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- 17th century -- Sources'
+- !lcsh 'Great Britain -- History -- Charles II, 1660-1685 -- Sources'
+- !lcsh 'Pepys, Samuel, 1633-1703 -- Diaries'
+- !lcsh 'Cabinet officers -- Great Britain -- Diaries'
+- !lcc 'DA'
+- !lcsh 'Diarists -- Great Britain -- Diaries'
+title: The Diary of Samuel Pepys
+url: http://www.gutenberg.org/ebooks/3331
