@@ -1,5 +1,5 @@
 _repo: The-Diary-of-Samuel-Pepys_3331
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -11,6 +11,9 @@ contributor:
       deathdate: 1858
       gutenberg_agent_id: '1182'
       url: http://www.gutenberg.org/2009/agents/1182
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pepys, Samuel
@@ -24,6 +27,8 @@ description: Pepys' original diary was written in shorthand between 1660 and 166
   public and private life of a most interesting, active, articulate Englishman and
   his lively French wife and provide valuable information about the period in which
   they lived.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3331#The-Diary-of-Samuel-Pepys
 gutenberg_issued: '2002-07-01'
 gutenberg_type: Text
 identifiers:
