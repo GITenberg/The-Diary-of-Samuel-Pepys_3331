@@ -1,5 +1,5 @@
 _repo: The-Diary-of-Samuel-Pepys_3331
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -44,5 +44,6 @@ subjects:
 - !lcsh 'Cabinet officers -- Great Britain -- Diaries'
 - !lcc 'DA'
 - !lcsh 'Diarists -- Great Britain -- Diaries'
+- GITenberg
 title: The Diary of Samuel Pepys
 url: http://www.gutenberg.org/ebooks/3331
